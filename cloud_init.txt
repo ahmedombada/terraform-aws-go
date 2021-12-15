@@ -1,0 +1,7 @@
+#cloud-config
+system_info:
+  default_user:
+    name: ahmed.ombada
+
+ssh_authorized_keys:
+  - ssh-rsa AAAAB3NzaC1yc2EAAAABJQAAAQEAoe4mueSREK1HXvCvnys5HtK+eOqXMOw81JrbuLAESJeAASwif57jjKqnB70tVrsbMvxLJfqhPg6zxslsrk41SJSAj4cXbAX4CvO2RBszE8Fed5aSMYabSKh507DxYheiBBLzLBQb3cxTDBa9CM8/RXioltKK2ugqrYK1MdaZvmwYcsaeSGLdpAHOIYDFwsN6irt4Sn02IQMBI4pDUM4GHM0/shaTXyszVs1t0IUMexyh021eAfPPgbUcBplRlqk2+lDQWQX/iFbBLv+TqQvruTGrmNODBbu0/nhJ8c6lejNPh1hxUUYcP++4cSINiLL036WxvBjiTE3D2W4TBAGCAQ==
